@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Bohemian Rhapsody",
+    "artist": "Queen",
+    "year_released": 1975,
+    "genre": "Rock, Progressive Rock"
+  },
+  {
+    "title": "Shape of You",
+    "artist": "Ed Sheeran",
+    "year_released": 2017,
+    "genre": "Pop, Dance-pop"
+  },
+  {
+    "title": "Smells Like Teen Spirit",
+    "artist": "Nirvana",
+    "year_released": 1991,
+    "genre": "Grunge, Alternative Rock"
+  },
+  {
+    "title": "Billie Jean",
+    "artist": "Michael Jackson",
+    "year_released": 1983,
+    "genre": "Pop, Funk"
+  },
+  {
+    "title": "Hotel California",
+    "artist": "Eagles",
+    "year_released": 1976,
+    "genre": "Rock, Soft Rock"
+  },
+  {
+    "title": "Rolling in the Deep",
+    "artist": "Adele",
+    "year_released": 2010,
+    "genre": "Soul, Pop"
+  },
+  {
+    "title": "Smells Like Teen Spirit",
+    "artist": "Nirvana",
+    "year_released": 1991,
+    "genre": "Grunge, Alternative Rock"
+  }
+]
